@@ -16,7 +16,7 @@ The system takes user interaction data as input and processes it using Pandas to
 To get started with this recommendation system, clone the repository and install the required dependencies listed in `requirements.txt`.
 
 ```bash
-git clone https://github.com/your-username/content-recommendation-system.git
+git clone https://github.com/ajaybaniya07/content-recommendation-system.git
 cd content-recommendation-system
 pip install -r requirements.txt
 
